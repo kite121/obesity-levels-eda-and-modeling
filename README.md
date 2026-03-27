@@ -7,7 +7,7 @@
 ```text
 .
 ├── README.md
-├── research.ipynb
+├── Research.ipynb
 └── data
     └── ObesityDataSet_raw_and_data_sinthetic.csv
 ```
